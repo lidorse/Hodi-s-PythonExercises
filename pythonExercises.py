@@ -35,7 +35,7 @@ while True:
         print(f'You entered the word {x} twice. Goodbye!')
         break
 
-#אחרי 3 ניסיונות אשנה את הCOUNT לשלושה מספרים דומים
+#  אשנה את הספירה ל3 מספרים דומים וכך התוכנית תיעצר אחרי 3 מספרים דומים
 
 
 # Question N.4
@@ -58,5 +58,6 @@ while True:
         elif n2 > n1:
             print(lst2)
         break
+    #אתגר(לא הצלחתי)    
     #if a == 0 or b == 0:
         #continue
